@@ -4,7 +4,6 @@ title: About me
 subtitle: Basic bio of Wenxin Yang
 ---
 
-_This is the personal website of Wenxin Yang. It records my academic work and arbitrary scratches I’ve encountered in my life._
 
 __Education Background__
 
