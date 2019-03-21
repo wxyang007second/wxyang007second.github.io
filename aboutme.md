@@ -1,16 +1,13 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Basic bio of Wenxin Yang
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+_This is the personal website of Wenxin Yang. It records my academic work and arbitrary scratches I’ve encountered in my life._
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+__Education Background__
 
-What else do you need?
+I’m currently pursuing my master degree of Urban Spatial Analytics in the School of Design at University of Pennsylvania. Born and raised in Beijing, China, I majored in Resources and Environmental Science at the Faculty of Geographical Science at Beijing Normal University for undergraduate study. Before leaving undergraduate school, I exchanged to Osaka University and audited at the transportation lab in the School of Engineering for one semester.
 
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+*__Key words__*: Geography, GISci, natural hazards, urban studies
